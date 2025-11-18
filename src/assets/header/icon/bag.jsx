@@ -1,0 +1,10 @@
+import React from 'react'
+
+export const Bag = () => {
+    return (
+        <svg width={27} height={27} viewBox="0 0 27 27" stroke="currentcolor" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.83333 10.6667H3.58333L0.75 26.25H26.25L23.4167 10.6667H19.1667M7.83333 10.6667V6.41667C7.83333 3.28705 10.3704 0.75 13.5 0.75C16.6296 0.75 19.1667 3.28705 19.1667 6.41667V10.6667M7.83333 10.6667H19.1667M7.83333 10.6667V14.9167M19.1667 10.6667V14.9167"  strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+</svg>
+
+    )
+}
